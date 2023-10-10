@@ -1,0 +1,62 @@
+body
+{
+    background-color:lightcyan;
+}
+
+.header_div
+{
+    background-color: aliceblue;
+    color: salmon;
+}
+
+.header_div p 
+{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 25px;
+    font-weight: bold;
+    color:rgb(152, 71, 71);
+    letter-spacing: 2px;
+}
+
+.header_div h2
+{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 30px;
+}
+
+.main_div button
+{
+    width:130px;
+    font-weight: bolder;
+    font-size: 25px;
+    letter-spacing: 3px;
+    font-variant: small-caps;
+    background-color: lightgreen;
+    height: 50px;
+    width:150px;
+    font-family: 'Libre Baskerville', serif;
+    border-radius: 6px;
+}
+
+.copy_right_footer
+{
+    background-color: bisque;
+    font-size: 25px;
+    color: rgb(169, 123, 112);
+    text-align: center;
+    line-height: 3;
+    position:fixed;
+    bottom: 0;
+    width:100%;
+    text-shadow: 40px;
+    font-family: 'Libre Baskerville', serif;
+}
+
+#ear_icon
+{
+    width:200px;
+    border-radius: 30px;
+    border-style: groove;
+    border-width: 20px;
+    border-color: rgb(174, 174, 218);
+}
